@@ -3,7 +3,7 @@
     "description": "CakePHP 4.x plugin to handle file uploading sans ridiculous automagic",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "upload", "files", "behavior", "orm"],
-    "homepage": "https://github.com/FriendsOfCake/cakephp-upload",
+    "homepage": "https://github.com/sdtorresl/cakephp-upload",
     "license": "MIT",
     "authors": [
         {
