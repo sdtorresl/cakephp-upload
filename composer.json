@@ -1,5 +1,5 @@
 {
-    "name": "josegonzalez/cakephp-upload",
+    "name": "josegonzalez/cakephp-upload-4",
     "description": "CakePHP plugin to handle file uploading sans ridiculous automagic",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "upload", "files", "behavior", "orm"],
