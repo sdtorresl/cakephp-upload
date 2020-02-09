@@ -1,6 +1,6 @@
 {
-    "name": "josegonzalez/cakephp-upload-4",
-    "description": "CakePHP plugin to handle file uploading sans ridiculous automagic",
+    "name": "sdtorresl/cakephp-upload-4",
+    "description": "CakePHP 4.x plugin to handle file uploading sans ridiculous automagic",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "upload", "files", "behavior", "orm"],
     "homepage": "https://github.com/FriendsOfCake/cakephp-upload",
